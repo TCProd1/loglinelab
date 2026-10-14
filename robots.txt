@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tcprod1.github.io/loglinelab/sitemap.xml
