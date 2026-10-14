@@ -1,0 +1,10 @@
+# LoglineLab
+> Free logline checker for indie filmmakers. Paste a film logline to get scores (hook, stakes, protagonist, genre clarity, marketability) and suggested rewrites. Runs in-browser, no signup.
+
+## Tool
+- [Logline checker](https://tcprod1.github.io/loglinelab/): instant scoring and rewrites
+
+## Guides
+- [What makes a great logline](https://tcprod1.github.io/loglinelab/what-makes-a-great-logline.html)
+- [Logline examples by genre](https://tcprod1.github.io/loglinelab/logline-examples-by-genre.html)
+- [Logline formula](https://tcprod1.github.io/loglinelab/logline-formula.html)
